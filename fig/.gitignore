@@ -1,0 +1,6 @@
+/apache-tomcat*
+/classes
+/fig.jar
+/fig.war
+/servlet/var
+/servlet/WEB-INF/lib/fig.jar
